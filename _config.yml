@@ -1,0 +1,19 @@
+# Site settings
+title: René Koller
+email: r.koller@icloud.com
+description: Rene Koller
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Identity
+name: René Koller
+title: Ruby on Rails and Elixir Developer
+location: Vienna/Austria
+
+# Social settings
+
+facebook_url: https://www.facebook.com/rene.koller.79
+github_url: https://github.com/sxdx
+
+# Build settings
+markdown: kramdown
